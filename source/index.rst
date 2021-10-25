@@ -8,8 +8,10 @@ Welcome to Documentación Diseño Gráfico's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Tabla de contenidos:
 
+   usage/installation
+   usage/quickstart
 
 
 Indices and tables
