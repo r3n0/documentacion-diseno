@@ -8,6 +8,7 @@ Guía para la Presentación del Trabajo de integración curricular
 | Carrera en Diseño Gráfico \| Universidad de Cuenca
 | **Junio de 2019**
 
+
 Presentación
 ============
 
