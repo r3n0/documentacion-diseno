@@ -1,8 +1,8 @@
-========================================
-este es lo que viene siendo el quickstar
-========================================
+=========================
+Guía rápida de etiquetado
+=========================
 
-It refers to the section itself, see :ref:`etiqueta-de-referencia`.
+It refers to the section itself, see :ref:`segundo`.
 
 See :download:`this example script <installation.rst>`.
 
@@ -14,7 +14,7 @@ See :download:`this example script <installation.rst>`.
 	est es un párrafo de prudencia
 
 .. danger::
-	perligro
+	peligro
 
 .. error::
 	este es un error
@@ -25,7 +25,7 @@ See :download:`this example script <installation.rst>`.
 .. importante::
 	algo importante
 
-.. nonte::
+.. note::
 	nota para recordar
 
 .. tip::
@@ -33,3 +33,16 @@ See :download:`this example script <installation.rst>`.
 
 .. warning::
 	advertencia
+
+con solo poner dos puntos dos veces luego de un párrafo::
+
+	esto se convierte en eun bloque literal
+
+
+def my_function(my_arg, my_other_arg):
+	"""A function just for me.
+
+	:param my_arg: The first of my arguments.
+	:param my_other_arg: The second of my arguments.
+
+	:returns: A message (just for me, of course)."""

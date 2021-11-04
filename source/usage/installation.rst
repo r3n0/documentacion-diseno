@@ -1,6 +1,6 @@
-============
-Uso y desuso
-============
+===========
+Uso de reST
+===========
 
 `texto de código`
 	thisis\ *one*\ word.
@@ -70,7 +70,14 @@ Esto, por otro lado es un `link <https://www.google.com>`_ a google
 
 .. _etiqueta-de-referencia:
 
-Sección de referencia crusada
------------------------------
+Sección de referencia cruzada
+=============================
 
-This is the text of the section.
+Este es un subtítulo
+--------------------
+
+.. .. topic:: Topico X
+.. 	esto es un tópico 
+
+.. .. sidebar:: Widgrt
+.. 	y esto un sidebar

@@ -3,20 +3,35 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Documentación Diseño Gráfico's documentation!
-========================================================
+Bienvenido a la Documentación de Diseño Gráfico
+===============================================
 
 .. toctree::
+   :numbered:
    :maxdepth: 2
-   :caption: Tabla de contenidos:
+   :caption: La carrera:
 
    usage/installation
    usage/quickstart
+   usage/headings
 
+.. toctree::
+   :numbered:
+   :maxdepth: 2
+   :caption: Solicitudes
 
-Indices and tables
-==================
+   procesos/solicitudes
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Titulación
+
+   titulacion/guia-tt
+
+Índices y tablas
+================
 
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
