@@ -5,28 +5,12 @@
 
 Bienvenido a la Documentación de Diseño Gráfico
 ===============================================
-
-.. toctree::
-   :numbered:
-   :maxdepth: 2
-   :caption: La carrera:
-
-   usage/installation
-   usage/quickstart
-   usage/headings
-
-.. toctree::
-   :numbered:
-   :maxdepth: 2
-   :caption: Solicitudes
-
-   procesos/solicitudes
-
 .. toctree::
    :maxdepth: 2
    :caption: Titulación
 
    titulacion/guia-tt
+   
 
 Índices y tablas
 ================
