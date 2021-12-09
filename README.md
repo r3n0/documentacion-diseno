@@ -27,5 +27,15 @@ A continuación hay que instalar Sphinx:
 pip install sphinx   
 ```
 
+Alternativamente se ha creado un archivo llamado **requirementes.txt** que contienen todas las dependencias que se están usando en el actual ambiente virtual. Para instalarlas solo usa este código:
+
+```
+install -r requirements.txt
+```
+
+Para volver a generara este archivo, en caso de agregar dependencias al proyecto, se utiliza este código:
 
 
+```
+pip freeze > requirements.txt
+```

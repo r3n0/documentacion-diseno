@@ -5,6 +5,12 @@
 
 Bienvenido a la Documentación de Diseño Gráfico
 ===============================================
+
+Este espacio ha sido creado para servir de referencias para todos aquellos que desean conocer más sobre la carrera de diseño gráfico de la Facultad de artes. 
+
+Aquí podrás encontrar información de relevancia como trámites, esquemas de proyectos de titulación, reglamentos interno, historia y perfil de egreso. 
+
+
 .. toctree::
    :maxdepth: 2
    :caption: Titulación

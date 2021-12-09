@@ -71,12 +71,14 @@ Organización del documento
 Guía para propuesta metodológica, tecnológica o de investigación
 ================================================================
 
-Portada ➔   `ver anexo 1 <https://docs.google.com/document/d/1GdVBEQ1TVK7nM8SFz4l-nAAZiwaymUbPyNl9OjwUrG0/edit#>`__
--------------------------------------------------------------------------------------------------------------------
+Portada ➔
+---------
+
+`ver anexo 1 <https://docs.google.com/document/d/1GdVBEQ1TVK7nM8SFz4l-nAAZiwaymUbPyNl9OjwUrG0/edit#>`__
 
 Primera página de presentación que debe incluir el escudo de la Universidad de Cuenca y el logotipo de la Facultad de Artes, nombre de la escuela, modalidad del trabajo de titulación, tema de trabajo de titulación, nombre del estudiante, nombre del director recomendado, lugar y fecha. *(1 página)*
 
-Indíce del documento
+Índice del documento
 --------------------
 
 Índice de contenidos del documento del esquema del trabajo de titulación, incluye anexos.
@@ -112,7 +114,7 @@ Se debe elegir un máximo de 3 palabras claves *preliminares* separadas por coma
 
 Las palabras claves deben ser revisadas en el documento final y su objetivo es ayudar a posibles lectores en su proceso de búsqueda.
 
-.. admonition::  Ejemplos
+.. admonition::  Ejemplos de palabras clave
 
    * Diseño web, Interfaz gráfica de usuario (GUI)                   
    * Comunicación visual, campañas BTL, publicidad de guerrilla      
@@ -133,7 +135,7 @@ Este apartado deberá responder a las siguientes preguntas:
    * ¿Cuáles serán sus aportes?
    * ¿A quién/quiénes podrá beneficiar el proyecto y de qué manera?
 
-.. admonition:: Ejemplo
+.. admonition:: Ejemplo de justificación
 
    La ciudad de Cuenca se ubica al sur del Ecuador y es uno de sus polos económicos, comerciales y de servicios de salud más importantes. Al respecto, en los últimos años la calidad de los servicios de salud ha sido reconocida inclusive a nivel internacional y cuenta como una de las razones para que alrededor de 5000 *expats* (Autor, año) hayan decidido trasladarse a esta ciudad. Dentro de la red de salud existen tanto servicios privados como públicos con alrededor de 120 centros, más de 8000 médicos y 3 escuelas de medicina reconocidas por la calidad de  sus graduados.
 
@@ -202,124 +204,30 @@ El apartado de metodología se refiere, en términos generales, a los pasos o et
 
 Si bien, en esta etapa no es necesario contar con los permisos necesarios para recolectar información, la aprobación o consentimiento informado para trabajar con grupos vulnerables, en este apartado se deberá considerar su necesidad en la columna de observaciones así como en el cronograma.
 
-
-.. csv-table:: Desarrollo de una campaña de publicidad 
-   :header: "Etapa", "Herramientas Metodológica", "objetivo/intención", "Observaciones / Protocolo de aplicación", "Referencia bibliográfica"
-   :widths: 10, 10, 10, 10, 10 
-
-   "1 Estrategia", "Análisis de homólogos", "realizar una síntesis de las estrategias, segmentación y estilos gráficos utilizados en campañas similares", "", ""
-
-
 Desarrollo de una campaña de publicidad para (...)
 
-+-------------+-------------+-------------+-------------+-------------+
-| **Etapa**   | **Herramien | **Objetivo/ | **O         | *           |
-|             | ta/Método** | intención** | bservacione | *Referencia |
-|             |             |             | s/Protocolo | bibl        |
-|             |             |             | de          | iográfica** |
-|             |             |             | a           |             |
-|             |             |             | plicación** |             |
-+=============+=============+=============+=============+=============+
-| 1           | Análisis de | Realizar    |             |             |
-| Estrategia  | homólogos   | una         |             |             |
-|             |             | síntesis de |             |             |
-|             |             | las         |             |             |
-|             |             | e           |             |             |
-|             |             | strategias, |             |             |
-|             |             | s           |             |             |
-|             |             | egmentación |             |             |
-|             |             | y estilos   |             |             |
-|             |             | gráficos    |             |             |
-|             |             | utilizados  |             |             |
-|             |             | en campañas |             |             |
-|             |             | similares   |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-|             | Entrevista  | Obtener     |             | Innovating  |
-|             | al director | información |             | for people. |
-|             | del         | acerca del  |             | Luma        |
-|             | proyecto    | proyecto a  |             | Institute   |
-|             |             | través de   |             |             |
-|             |             | diálogo     |             |             |
-|             |             | directo     |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-|             | Estrategia  | Definir la  |             | Wells,      |
-|             | y objetivos | estrategia  |             | Williams.   |
-|             | pu          | y los       |             | Publicidad, |
-|             | blicitarios | objetivos   |             | principios  |
-|             |             | adecuados   |             | y práctica  |
-|             |             | para la     |             |             |
-|             |             | campaña     |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-|             |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-|             | Desarrollo  | Compilar    |             | Rusell,     |
-|             | del         | toda la     |             | Thomas et   |
-|             | br          | información |             | al.         |
-|             | ief/informe | en un solo  |             | Kleppner    |
-|             | creativo    | documento   |             | Publicidad  |
-|             |             | (           |             |             |
-|             |             | estrategia, |             |             |
-|             |             | objetivos,  |             |             |
-|             |             | segmento de |             |             |
-|             |             | mercado,    |             |             |
-|             |             | etc. )      |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| 2 Idea      | ...         |             |             |             |
-| creativa    |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-|             | ...         |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
+.. csv-table:: 
+   :header: "Etapa", "Herramientas Metodológica", "objetivo/intención", "Observaciones / Protocolo de aplicación", "Referencia bibliográfica"
+   :widths: 10 10 10 10 10 
+
+   "1 Estrategia", "Análisis de homólogos", "Realizar una síntesis de las estrategias, segmentación y estilos gráficos utilizados en campañas similares", "", ""
+   "", "Entrevista al director del proyecto", "Obtener información acerca del proyecto a través de diálogo directo", "", "Innovating for people. Luma Institute"
+   "", "Estrategia y objetivos publicitarios", "Definir la estrategia y los objetivos adecuados para la campaña", "", "Wells, Williams. Publicidad, principios y práctica"
+   "", "Desarrollo del brief/informe creativo", "Compilar toda la información en un solo documento (estrategia, objetivos, segmento de mercado, etc. )", "", "Rusell, Thomas et al. Kleppner Publicidad"
+   "2 Idea creativa", "...", "", "", ""
+   "", "...", "", "", ""
+
 
 Diseño de una web para (...)
 
-+-------------+-------------+-------------+-------------+-------------+
-| **Etapa**   | **Herramien | **Objetivo/ | **O         | *           |
-|             | ta/Método** | intención** | bservacione | *Referencia |
-|             |             |             | s/Protocolo | bibl        |
-|             |             |             | de          | iográfica** |
-|             |             |             | a           |             |
-|             |             |             | plicación** |             |
-+=============+=============+=============+=============+=============+
-| ...         |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| 4 Esqueleto | Bocetaje de | Desarrollar | Bocetar a   | Garret,     |
-|             | wireframes  | el sistema  | nivel de    | Jesse. The  |
-|             |             | gráfico     | esquema la  | elements of |
-|             |             | (retícula,  | ubicación   | user        |
-|             |             | ubicación   | de los      | experience  |
-|             |             | de          | elementos y |             |
-|             |             | elementos)  | sus         |             |
-|             |             | que tenga   | p           |             |
-|             |             | c           | roporciones |             |
-|             |             | onsistencia | relativas   |             |
-|             |             | a lo largo  | con la      |             |
-|             |             | de la       | finalidad   |             |
-|             |             | navegación  | de obtener  |             |
-|             |             |             | un sistema  |             |
-|             |             |             | consistente |             |
-|             |             |             | e intuitivo |             |
-+-------------+-------------+-------------+-------------+-------------+
-|             | Test de     | Evaluar el  | Elegir las  | Cooper,     |
-|             | usabilidad  | diseño      | tareas más  | Alan. About |
-|             |             | mediante el | importantes | Face.       |
-|             |             | uso de      | dentro de   |             |
-|             |             | prototipos  | la          |             |
-|             |             | de baja     | navegación  |             |
-|             |             | fidelidad   | y           |             |
-|             |             |             | asignarlas  |             |
-|             |             |             | a usuarios  |             |
-|             |             |             | de          |             |
-|             |             |             | cara        |             |
-|             |             |             | cterísticas |             |
-|             |             |             | similares   |             |
-|             |             |             | al grupo    |             |
-|             |             |             | objetivo    |             |
-+-------------+-------------+-------------+-------------+-------------+
-| 5           | ...         |             |             |             |
-| Superficie  |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-|             | ...         |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
+.. csv-table:: 
+   :header: "Etapa", "Herramientas Metodológica", "objetivo/intención", "Observaciones / Protocolo de aplicación", "Referencia bibliográfica"
+   :widths: 10 10 10 10 10 
+
+   "4 Esqueleto", "Bocetaje de wireframes", "Desarrollar el sistema gráfico (retícula, ubicación de elementos) que tenga consistencia a lo largo de la navegación", "Bocetar a nivel de esquema la ubicación de los elementos y sus proporciones relativas con la finalidad de obtener un sistema consistente e intuitivo", "Garret, Jesse. The elements of user experience"
+   "", "Test de usabilidad", "Evaluar el diseño mediante el uso de prototipos de baja fidelidad", "Elegir las tareas más importantes dentro de la navegación y asignarlas a usuarios de características similares al grupo objetivo", "Cooper, Alan. About Face."
+   "5 Superficie", "...", "", "", ""
+   "", "...", "", "", ""
 
 Índice preliminar de contenidos
 -------------------------------
