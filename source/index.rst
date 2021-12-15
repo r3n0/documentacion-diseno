@@ -12,7 +12,7 @@ Aquí podrás encontrar información de relevancia como trámites, esquemas de p
 
 .. toctree::
    :maxdepth: 1
-   :caption: Fundamentación de la Carrera
+   :caption: Información de la Carrera
 
    fundamentacion/fundamentacion
    fundamentacion/perfil-ingreso
