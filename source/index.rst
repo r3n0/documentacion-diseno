@@ -10,11 +10,6 @@ Este espacio ha sido creado para servir de referencias para todos aquellos que d
 
 Aquí podrás encontrar información de relevancia como trámites, esquemas de proyectos de titulación, reglamentos interno, historia y perfil de egreso. 
 
-
-------------
-Contenidos
-------------
-
 .. toctree::
    :maxdepth: 1
    :caption: Fundamentación de la Carrera
