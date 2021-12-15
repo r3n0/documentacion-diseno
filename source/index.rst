@@ -21,6 +21,12 @@ Aquí podrás encontrar información de relevancia como trámites, esquemas de p
 
 .. toctree::
    :maxdepth: 1
+   :caption: Oferta Académica
+
+   oferta-academica/plan-curricular
+
+.. toctree::
+   :maxdepth: 1
    :caption: Titulación
 
    titulacion/guia-tt
