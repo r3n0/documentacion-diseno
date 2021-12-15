@@ -1,3 +1,31 @@
+.wy-nav-side{
+	background-color: #333;
+}
+
+@media screen and (min-width:768px){
+	
+	/* .wy-grid-for-nav{
+		display: flex
+	}
+	
+	.wy-nav-side{
+		inset: auto;
+		position: relative;
+		flex-shrink: 0;
+	} */
+	.wy-nav-content-wrap{
+		/* margin: 0; */
+		/* width: 100%; */
+		background-color: white;
+	}
+	.wy-nav-content{
+		max-width: 60rem;
+		margin: 0 auto;
+	}
+}
+
+
+
 .wy-table-responsive table td, .wy-table-responsive table th{
 	white-space: normal;
 }
@@ -17,4 +45,6 @@
 .wy-table-responsive table.col-15rem td, .wy-table-responsive table.col-15rem th{
 	min-width: 15rem;
 }
+
+
 
