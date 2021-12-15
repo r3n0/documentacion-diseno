@@ -1,4 +1,20 @@
 .wy-table-responsive table td, .wy-table-responsive table th{
 	white-space: normal;
+}
+
+.col-3rem.wy-table-responsive table td, .col-3rem.wy-table-responsive table th{
+	min-width: 3rem;
+}
+
+.col-5rem.wy-table-responsive table td, .col-5rem.wy-table-responsive table th{
+	min-width: 5rem;
+}
+
+.col-10rem.wy-table-responsive table td, .col-10rem.wy-table-responsive table th{
 	min-width: 10rem;
 }
+
+.col-15rem.wy-table-responsive table td, .col-15rem.wy-table-responsive table th{
+	min-width: 15rem;
+}
+

@@ -269,6 +269,9 @@ Cronograma de actividades del trabajo de titulación
 
 El cronograma se refiere a una línea de tiempo que incluye las fechas importantes en el desarrollo del proyecto de titulación como la escritura de apartados o actividades importantes.
 
+
+.. rst-class:: col-5rem
+
 +-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+
 | A     | Act   | Mes   | Mes   | Mes   | Mes   | Mes   | Mes   |       |       |       |       |       |       |       |       |       |       |       |       |       |       |       |       |       |       |
 | parta | ivida | 1     | 2     | 3     | 4     | 5     | 6     |       |       |       |       |       |       |       |       |       |       |       |       |       |       |       |       |       |       |
@@ -294,6 +297,8 @@ Recursos (Talento humano, financieros, materiales)
 
 En este apartado se deberá incluir una lista de los diferentes recursos económicos y materiales necesarios para el desarrollo del proyecto.
 
+.. rst-class:: col-5rem
+   
 +----------+----------+----------+----------+----------+----------+
 | Apa      | Activ    | Item     | Ca       | Valor    | Valor    |
 | rtados   | idades   |          | ntidad   | un       | total    |
