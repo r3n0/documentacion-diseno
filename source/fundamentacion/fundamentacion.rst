@@ -1,5 +1,5 @@
 =====================================
-Fundamentación de la carrera
+Descripción
 =====================================
 
 Forma diseñadores comprometidos con la práctica ética de la comunicación visual que generen soluciones creativas, funcionales, innovadoras y pertinentes a los retos, necesidades y demandas actuales de la sociedad. Una práctica centrada en las personas para mejorar su calidad de vida, que dé valor agregado a los procesos, productos y servicios, y consciente de la importancia del diseño como eje de la cultura y la identidad.
