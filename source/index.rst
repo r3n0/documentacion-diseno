@@ -3,18 +3,25 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Documentación Diseño Gráfico's documentation!
-========================================================
+Bienvenido a la Documentación de Diseño Gráfico
+===============================================
+
+Este espacio ha sido creado para servir de referencias para todos aquellos que desean conocer más sobre la carrera de diseño gráfico de la Facultad de artes. 
+
+Aquí podrás encontrar información de relevancia como trámites, esquemas de proyectos de titulación, reglamentos interno, historia y perfil de egreso. 
+
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Titulación
 
+   titulacion/guia-tt
+   
 
-
-Indices and tables
-==================
+Índices y tablas
+================
 
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
