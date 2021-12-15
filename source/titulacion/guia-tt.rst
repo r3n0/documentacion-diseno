@@ -9,8 +9,9 @@ Guía para la Presentación del Trabajo de integración curricular
 | **Junio de 2019**
 
 
+-------------
 Presentación
-============
+-------------
 
 Este documento pretende ser una guía para la presentación del documento del Trabajo de Integracióon Curricular TICu.
 
@@ -20,8 +21,9 @@ Se ha procurado que cada uno de los apartados consideren las opciones y formatos
 
    Las afirmaciones y cifras en los ejemplos han sido generadas únicamente con el propósito de mostrar la estructura de los apartados y no responden necesariamente a datos o información reales.
 
+------------------------------------------------
 Trámites administrativos
-========================
+------------------------------------------------
 
 Los miembros de la Unidad de Titulación revisarán el esquema en conjunto con el alumno, realizará las sugerencias respectivas para que el estudiante pueda modificarlas, o, en su caso, si no existen sugerencias, presente en formato físico el esquema final con su firma a la secretaria abogada.
 
@@ -38,7 +40,7 @@ El proceso que el estudiante debe seguir para poder iniciar su trabajo de titula
    #. Adicionalmente, enviar o compartir la documentación completa al e-mail titulacion.diseno@ucuenca.edu.ec, la versión definitiva del esquema en formato digital con la firma de aprobación.
 
 Organización del documento
---------------------------
+===========================
    #. Portada
    #. Índice del Documento
    #. Título o definición del tema
@@ -68,23 +70,24 @@ Organización del documento
    * Bibliografía
    * Anexos
 
+-----------------------------------------------------------------------
 Guía para propuesta metodológica, tecnológica o de investigación
-================================================================
+-----------------------------------------------------------------------
 
 Portada ➔
----------
+=========
 
 `ver anexo 1 <https://docs.google.com/document/d/1GdVBEQ1TVK7nM8SFz4l-nAAZiwaymUbPyNl9OjwUrG0/edit#>`__
 
 Primera página de presentación que debe incluir el escudo de la Universidad de Cuenca y el logotipo de la Facultad de Artes, nombre de la escuela, modalidad del trabajo de titulación, tema de trabajo de titulación, nombre del estudiante, nombre del director recomendado, lugar y fecha. *(1 página)*
 
 Índice del documento
---------------------
+=====================
 
 Índice de contenidos del documento del esquema del trabajo de titulación, incluye anexos.
 
 Título o definición de tema 
----------------------------
+============================
 
 (15 a 20 palabras, situar tiempo, espacio y líneas de diseño)
 
@@ -108,7 +111,7 @@ Título o definición de tema
    * Estudio de la tipografía utilizada a inicios del Siglo XX en la imprenta salesiana de Cuenca, Ecuador                          
 
 Palabras clave o keywords
--------------------------
+============================
 
 Se debe elegir un máximo de 3 palabras claves *preliminares* separadas por coma en una sóla línea, serán categorías teóricas o conceptos centrales de los campos de estudio en los que se sustentará el proyecto. Las palabras claves se refieren a sustantivos y están relacionadas sobre todo con el marco teórico, en lo posible se deben organizar desde lo general a lo específico y se separan utilizando comas.
 
@@ -123,7 +126,7 @@ Las palabras claves deben ser revisadas en el documento final y su objetivo es a
    * Historia del Arte ecuatoriano, arte rupestre, cuevas de Chobshi 
 
 Justificación e importancia
----------------------------
+=============================
    
 Descripción de las posibilidades transformadoras mediante la   aplicación de diseño, por ejemplo se puede describir   problemática, pertinencia, interés metodológico o práctico.  Entre 3 a 4 páginas
 
@@ -146,7 +149,7 @@ Este apartado deberá responder a las siguientes preguntas:
    Por estas razones, este proyecto se centrará en desarrollar una propuesta de marca, un manual y un plan de comunicación con sus respectivas aplicaciones, con el objetivo de optimizar los      recursos y permitir al hospital mejorar tanto sus procesos como la calidad de su servicios.
    
 Objetivos
----------
+==========
 
 Los objetivos se deben describir usando verbos en infinitivo y hacen alusión a el o los productos esperados. En el caso específico del trabajo de titulación se recomienda un solo objetivo, en el caso de plantear objetivos específicos tener en cuenta que cada uno deberá considerar un entregable y cuidar que este no forme parte del desarrollo lógico de la investigación. Se debe evitar la redacción de objetivos específicos que describen actividades en lugar de productos más complejos.
 
@@ -177,7 +180,7 @@ Los objetivos se deben describir usando verbos en infinitivo y hacen alusión a 
    * Analizar la tipografía utilizada en las publicaciones de la imprenta salesiana de Cuenca entre 1900-1920                      
 
 Delimitación y alcance
-----------------------
+========================
 
 Descripción de los productos a desarrollarse y/o las características de estos, considerando tanto los recursos económicos como humanos dentro de un plazo de tiempo específico
 
@@ -196,7 +199,7 @@ Los alcances deben ser específicos y factibles dentro del tiempo que la univers
    Adicionalmente, a pesar de conocer que para su correcto funcionamiento son importantes tanto el diseño, desarrollo y programación del componente destinado a los administradores del sistema de dinero electrónico, así como su versión y soporte en plataformas web, tampoco estos productos han sido considerados como parte de este proyecto de titulación debido al tiempo requerido y su complejidad.
 
 Metodología o procedimiento
----------------------------
+============================
 
 Completar un cuadro o tabla secuencial de etapas, pasos, fases, con una adecuada selección de métodos, técnica e instrumentos de investigación y de diseño
 
@@ -230,7 +233,7 @@ Diseño de una web para (...)
    "", "...", "", "", ""
 
 Índice preliminar de contenidos
--------------------------------
+================================
 
 Estos contenidos deberán ser entregados como un esbozo de temas y subtemas a desarrollar, deben estar dispuestos por apartados (de tres a cuatro), y tener relación con objetivos y con el/los métodos de investigación adoptado/s.
 
@@ -262,7 +265,7 @@ Estos contenidos deberán ser entregados como un esbozo de temas y subtemas a de
 +---------------------------------+
 
 Cronograma de actividades del trabajo de titulación
----------------------------------------------------
+====================================================
 
 El cronograma se refiere a una línea de tiempo que incluye las fechas importantes en el desarrollo del proyecto de titulación como la escritura de apartados o actividades importantes.
 
@@ -287,7 +290,7 @@ El cronograma se refiere a una línea de tiempo que incluye las fechas important
 +-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+
 
 Recursos (Talento humano, financieros, materiales)
---------------------------------------------------
+====================================================
 
 En este apartado se deberá incluir una lista de los diferentes recursos económicos y materiales necesarios para el desarrollo del proyecto.
 
@@ -316,7 +319,7 @@ En este apartado se deberá incluir una lista de los diferentes recursos económ
 +----------+----------+----------+----------+----------+----------+
 
 Referentes bibliográficos
--------------------------
+===========================
 
 Este apartado se refiere a un primer listado de las fuentes que se utilizarán para desarrollar el proyecto de titulación en orden alfabético.
 
@@ -326,5 +329,6 @@ Adicionalmente, la Universidad de Cuenca ha definido el uso de la edición 6ta d
 
    `http://www.normasapa.com <http://normasapa.com/>`__
 
+------
 Anexos
 ------
