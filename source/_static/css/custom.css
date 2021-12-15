@@ -2,19 +2,19 @@
 	white-space: normal;
 }
 
-.wy-table-responsive .col-3rem table td, .wy-table-responsive .col-3rem table th{
+.wy-table-responsive table.col-3rem td, .wy-table-responsive table.col-3rem th{
 	min-width: 3rem;
 }
 
-.wy-table-responsive .col-5rem table td, .wy-table-responsive .col-5rem table th{
+.wy-table-responsive table.col-5rem td, .wy-table-responsive table.col-5rem th{
 	min-width: 5rem;
 }
 
-.wy-table-responsive .col-10rem table td, .wy-table-responsive .col-10rem table th{
+.wy-table-responsive table.col-10rem td, .wy-table-responsive table.col-10rem th{
 	min-width: 10rem;
 }
 
-.wy-table-responsive .col-15rem table td, .wy-table-responsive .col-15rem table th{
+.wy-table-responsive table.col-15rem td, .wy-table-responsive table.col-15rem th{
 	min-width: 15rem;
 }
 
