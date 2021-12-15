@@ -10,18 +10,29 @@ Este espacio ha sido creado para servir de referencias para todos aquellos que d
 
 Aquí podrás encontrar información de relevancia como trámites, esquemas de proyectos de titulación, reglamentos interno, historia y perfil de egreso. 
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Información de la Carrera
+
+   fundamentacion/fundamentacion
+   fundamentacion/perfil-ingreso
+   fundamentacion/perfil-profesional
+   fundamentacion/creditos
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :caption: Oferta Académica
+
+   oferta-academica/plan-curricular
+
+.. toctree::
+   :maxdepth: 1
    :caption: Titulación
 
    titulacion/guia-tt
-   
 
-Índices y tablas
-================
+Búsqueda
+==================
 
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
-
+      

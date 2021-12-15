@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Documentación Diseño Gráfico'
-copyright = '2021, r3n0'
+copyright = '2021, Diseño gráfico, Facultad de Artes, Universidad de Cuenca.'
 author = 'r3n0'
 
 # The full version, including alpha/beta/rc tags
