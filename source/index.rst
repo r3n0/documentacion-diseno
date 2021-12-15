@@ -3,6 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+===============================================
 Bienvenido a la Documentación de Diseño Gráfico
 ===============================================
 
@@ -31,8 +32,15 @@ Aquí podrás encontrar información de relevancia como trámites, esquemas de p
 
    titulacion/guia-tt
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Glosario
+
+   glosario/glosario
+
+------------
 Búsqueda
-==================
+------------
 
 * :ref:`search`
       
