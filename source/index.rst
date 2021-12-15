@@ -13,15 +13,15 @@ Aquí podrás encontrar información de relevancia como trámites, esquemas de p
 
 .. toctree::
    :maxdepth: 2
+   :caption: Fundamentación de la Carrera
+
+   fundamentacion/fundamentacion
+   fundamentacion/perfil-ingreso
+   fundamentacion/perfil-profesional
+   fundamentacion/creditos
+
+.. toctree::
+   :maxdepth: 2
    :caption: Titulación
 
    titulacion/guia-tt
-   
-
-Índices y tablas
-================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
