@@ -245,6 +245,7 @@ Estos contenidos deberán ser entregados como un esbozo de temas y subtemas a de
 |   1. Introducción               |
 |                                 |
 |     1.1                         |
+|                                 |
 |     1.2                         |
 |                                 |
 |        1.2.1                    |
@@ -252,15 +253,19 @@ Estos contenidos deberán ser entregados como un esbozo de temas y subtemas a de
 |   2. Métodos                    |
 |                                 |
 |     2.1                         |
+|                                 |
 |     2.2                         |
+|                                 |
 |     2.3                         |
 |                                 |
 |   3. Propuesta y Resultados     |
 |                                 |
 |     3.1                         |
+|                                 |
 |     3.2                         |
 |                                 |
 |        3.2.1                    |
+|                                 |
 |        3.2.2                    |
 |                                 |
 |   Conclusión y recomendaciones  |
