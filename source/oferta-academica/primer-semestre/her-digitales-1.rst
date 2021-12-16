@@ -29,7 +29,7 @@ Distribución horaria semestral
 
 .. panels::
     :container: container pb-4
-    :column: col-lg-3
+    :column: col-lg-3 col-md-6 col-sm-12
     :card: noshadow
 
 	:term:`ACD`
