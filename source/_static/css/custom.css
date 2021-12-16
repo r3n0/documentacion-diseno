@@ -16,7 +16,7 @@
 	.wy-nav-content-wrap{
 		/* margin: 0; */
 		/* width: 100%; */
-		background-color: white;
+		background-color: #fcfcfc;
 	}
 	.wy-nav-content{
 		max-width: 60rem;
@@ -46,5 +46,7 @@
 	min-width: 15rem;
 }
 
-
+.rst-content .card blockquote{
+	margin: 0;
+}
 
