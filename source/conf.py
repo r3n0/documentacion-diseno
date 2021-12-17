@@ -31,7 +31,8 @@ release = '1.0'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-	'sphinx.ext.intersphinx'
+	'sphinx.ext.intersphinx',
+    'sphinx_panels',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -93,3 +94,6 @@ html_static_path = ['_static']
 html_css_files = [
     'css/custom.css',
 ]
+
+html_show_sourcelink = False
+
