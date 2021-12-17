@@ -30,7 +30,7 @@ Distribución horaria semestral
 
 .. panels::
     :container: container pb-4
-    :column: col-lg-3 col-md-6 col-sm-12
+    :column: col-lg-3 col-sm-6 col-xs-6
     :card: noshadow
 
 	:term:`ACD`
@@ -76,5 +76,3 @@ Organización Curricular
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
 	Fundamentos teóricos / Praxis profesional
 
-
-Show a tooltip to :doc:`exp-grafica-1` section on this page.

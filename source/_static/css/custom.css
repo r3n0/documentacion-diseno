@@ -4,18 +4,7 @@
 
 @media screen and (min-width:768px){
 	
-	/* .wy-grid-for-nav{
-		display: flex
-	}
-	
-	.wy-nav-side{
-		inset: auto;
-		position: relative;
-		flex-shrink: 0;
-	} */
 	.wy-nav-content-wrap{
-		/* margin: 0; */
-		/* width: 100%; */
 		background-color: #fcfcfc;
 	}
 	.wy-nav-content{
@@ -52,4 +41,56 @@
 
 .col-lg, .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-auto, .col-md, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-auto, .col-sm, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-auto, .col-xl, .col-xl-1, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-auto {
 	margin-block: .5rem;
+}
+
+
+/* forzar a las columnas de las horas mensuales de clases a ser dos en celular */
+@media screen and ( max-width: 576px ) {
+	.col-xs-6 {
+		-ms-flex: 0 0 50%;
+		flex: 0 0 50%;
+		max-width: 50%;
+	}
+}
+
+/* animaciones de header y menú en el móvil */
+@media screen and ( max-width: 768px ){
+	.wy-nav-side{
+		transition: all .5s cubic-bezier(.59,.04,.17,.99);
+	}
+
+	.wy-nav-content-wrap{
+		transition: all .5s cubic-bezier(.59,.04,.17,.99);
+
+	}
+
+	.wy-nav-content-wrap.shift{
+		position: fixed;
+		min-width: 100%;
+		left: 0%;
+		transform: translateX(85%);
+		top: 0;
+		height: 100%;
+		overflow: hidden;
+	}
+
+	.wy-nav-top{
+		position: fixed;
+		width: 100%;
+		z-index: 100;
+	}
+
+	.wy-nav-content{
+		padding-top: 5rem !important;
+	}
+}
+
+/* cambio de íconos en admonition con Fontawesome */
+
+[class*="admonition-ejemplo"] .admonition-title::before{
+	content: "\f0f4" ;
+}
+
+.admonition.note .admonition-title::before{
+	content: "\f02d" ;
 }
