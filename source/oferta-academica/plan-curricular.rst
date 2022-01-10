@@ -8,3 +8,4 @@ Plan curricular
 	:caption: Semestres
 
 	primer-semestre/primer-semestre
+	segundo-semestre/segundo-semestre
