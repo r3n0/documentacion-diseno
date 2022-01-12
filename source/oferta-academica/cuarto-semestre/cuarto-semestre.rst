@@ -1,14 +1,14 @@
 =======================================
-Tercer Semestre
+Cuarto Semestre
 =======================================
 
 .. toctree:: 
 	:maxdepth: 1
 	:caption: Materias
 
-	historia-diseno-grafico-1
-	fotografia-basica
-	her-digitales-3
-	preprensa
-	taller-tipografia
-	tecnicas-bocetaje
+	generos-fotograficos
+	guion
+	her-digitales-4
+	historia-diseno-grafico-2
+	semiotica-1
+	taller-de-iconos

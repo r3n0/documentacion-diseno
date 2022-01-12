@@ -1,14 +1,14 @@
 =======================================
-Tercer Semestre
+Quinto Semestre
 =======================================
 
 .. toctree:: 
 	:maxdepth: 1
 	:caption: Materias
 
-	historia-diseno-grafico-1
-	fotografia-basica
-	her-digitales-3
-	preprensa
-	taller-tipografia
-	tecnicas-bocetaje
+	diseno-web
+	marketing
+	semiotica-2
+	senaletica
+	taller-imagen-corporativa
+	video
