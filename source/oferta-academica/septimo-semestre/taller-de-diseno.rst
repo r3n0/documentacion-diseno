@@ -1,6 +1,6 @@
-=========================
-Herramientas Digitales I
-=========================
+========================================
+Taller de Diseño Social
+========================================
 
 -------------------------------
 Resultados de aprendizaje
@@ -10,7 +10,7 @@ Resultados de aprendizaje
 	:card: noshadow
 	:column: col-lg-12	
 
-	Utiliza software de creación de imagen vectorial para el desarrollo de propuestas de diseño
+	Desarrolla propuestas de diseño que den solución a problemáticas sociales mediante el trabajo interdisciplinario.
 
 -------------------
 Contenidos mínimos
@@ -20,7 +20,7 @@ Contenidos mínimos
 	:card: noshadow
 	:column: col-lg-12	
 
-	Esta asignatura se centra en conocer el programa estándar usado por los diseñadores en la industria gráfica y de impresión. desde el desarrollo de ilustraciones hasta estudios tipográficos. La cátedra busca el dominio técnico, artístico y comunicativo del software
+	Trabajo Interdisciplinario para plantear soluciones de diseño a problemáticas de la sociedad con propuestas que aporten al ámbito social, ambiental, así como a la sustentabilidad y al buen vivir.
 
 ------------------------------
 Distribución horaria semestral
@@ -34,25 +34,25 @@ Distribución horaria semestral
 
 	:term:`ACD`
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	48
+	64
 
 	---
 
 	:term:`APE`
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	32
+	48
 
 	---
 
 	:term:`AA`
 	^^^^^^^^^^^^^^^^^^^^^^^^^
-	40
+	48
 
 	---
 
 	Total de horas
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	120
+	160
 
 ------------------------
 Organización Curricular
@@ -67,10 +67,10 @@ Organización Curricular
 	
 	Unidad 
 	^^^^^^^^^
-	Básica
+	Profesional
 
 	---
 
 	Campo de formación
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	Praxis profesional
+	Comunicación y lenguajes

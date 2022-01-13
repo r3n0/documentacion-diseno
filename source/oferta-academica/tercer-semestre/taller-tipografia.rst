@@ -1,6 +1,6 @@
-=========================
-Herramientas Digitales I
-=========================
+========================================
+Taller de Tipografía
+========================================
 
 -------------------------------
 Resultados de aprendizaje
@@ -10,7 +10,7 @@ Resultados de aprendizaje
 	:card: noshadow
 	:column: col-lg-12	
 
-	Utiliza software de creación de imagen vectorial para el desarrollo de propuestas de diseño
+	Utiliza herramientas y conceptos para el diseño de familias tipográficas que utilizará en su trabajo profesional.
 
 -------------------
 Contenidos mínimos
@@ -20,7 +20,7 @@ Contenidos mínimos
 	:card: noshadow
 	:column: col-lg-12	
 
-	Esta asignatura se centra en conocer el programa estándar usado por los diseñadores en la industria gráfica y de impresión. desde el desarrollo de ilustraciones hasta estudios tipográficos. La cátedra busca el dominio técnico, artístico y comunicativo del software
+	Uso de textos y su correcta aplicación en el contexto de la comunicación visual y el diseño gráfico. Desde una revisión histórica de las familias tipográficas, las relaciones forma-figura, taxonomía, tipometría y aplicaciones básicas, el estudiante desarrolla buenas prácticas tipográficas en su uso como base para su carrera y desarrollo profesional.
 
 ------------------------------
 Distribución horaria semestral
@@ -34,25 +34,25 @@ Distribución horaria semestral
 
 	:term:`ACD`
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	48
+	80
 
 	---
 
 	:term:`APE`
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	32
+	48
 
 	---
 
 	:term:`AA`
 	^^^^^^^^^^^^^^^^^^^^^^^^^
-	40
+	72
 
 	---
 
 	Total de horas
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	120
+	200
 
 ------------------------
 Organización Curricular
@@ -73,4 +73,4 @@ Organización Curricular
 
 	Campo de formación
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	Praxis profesional
+	Fundamentos teóricos / Praxis profesional

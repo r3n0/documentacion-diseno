@@ -1,6 +1,6 @@
-=========================
-Herramientas Digitales I
-=========================
+========================================
+Taller de Diseño Editorial
+========================================
 
 -------------------------------
 Resultados de aprendizaje
@@ -10,7 +10,7 @@ Resultados de aprendizaje
 	:card: noshadow
 	:column: col-lg-12	
 
-	Utiliza software de creación de imagen vectorial para el desarrollo de propuestas de diseño
+	Compone productos Editoriales simples y complejos mediante el uso de retículas, jerarquización y diferenciación, agrupamiento de elementos, organización y composición.
 
 -------------------
 Contenidos mínimos
@@ -20,7 +20,7 @@ Contenidos mínimos
 	:card: noshadow
 	:column: col-lg-12	
 
-	Esta asignatura se centra en conocer el programa estándar usado por los diseñadores en la industria gráfica y de impresión. desde el desarrollo de ilustraciones hasta estudios tipográficos. La cátedra busca el dominio técnico, artístico y comunicativo del software
+	Se centra en conocer los principales conceptos del Diseño Editorial, el uso de retículas, jerarquización y diferenciación, agrupamiento de elementos, organización y composición. Se propone diseñar elementos simples y complejos: postales, afiches, revistas, diarios y diseño y diagramación de un libro completo.
 
 ------------------------------
 Distribución horaria semestral
@@ -34,25 +34,25 @@ Distribución horaria semestral
 
 	:term:`ACD`
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	48
+	80
 
 	---
 
 	:term:`APE`
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	32
+	48
 
 	---
 
 	:term:`AA`
 	^^^^^^^^^^^^^^^^^^^^^^^^^
-	40
+	72
 
 	---
 
 	Total de horas
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	120
+	200
 
 ------------------------
 Organización Curricular
@@ -67,10 +67,10 @@ Organización Curricular
 	
 	Unidad 
 	^^^^^^^^^
-	Básica
+	Profesional
 
 	---
 
 	Campo de formación
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	Praxis profesional
+	Fundamentos teóricos / Praxis profesional

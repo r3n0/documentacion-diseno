@@ -1,6 +1,6 @@
-=========================
-Herramientas Digitales I
-=========================
+========================================
+Agencia de Diseño
+========================================
 
 -------------------------------
 Resultados de aprendizaje
@@ -10,7 +10,7 @@ Resultados de aprendizaje
 	:card: noshadow
 	:column: col-lg-12	
 
-	Utiliza software de creación de imagen vectorial para el desarrollo de propuestas de diseño
+	Entiende las diversas necesidades locales y campos laborales de inserción, permitiéndole generar su Estudio de Diseño en asociación o como freelance.
 
 -------------------
 Contenidos mínimos
@@ -20,7 +20,7 @@ Contenidos mínimos
 	:card: noshadow
 	:column: col-lg-12	
 
-	Esta asignatura se centra en conocer el programa estándar usado por los diseñadores en la industria gráfica y de impresión. desde el desarrollo de ilustraciones hasta estudios tipográficos. La cátedra busca el dominio técnico, artístico y comunicativo del software
+	Esta asignatura se enfoca en el conocimiento teórico y práctico de las herramientas necesarias para la generación de emprendimientos y negocios propios con un énfasis en la gestión y la dirección creativa para generar ideas, trabajar en equipo y adquirir un perfil de liderazgo. Se aborda también estrategias de community manager, comunicación estratégica, digital y el manejo de cuentas, orientando el manejo de emprendimientos de agencias de diseño.
 
 ------------------------------
 Distribución horaria semestral
@@ -34,25 +34,25 @@ Distribución horaria semestral
 
 	:term:`ACD`
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	48
+	32
 
 	---
 
 	:term:`APE`
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	32
+	16
 
 	---
 
 	:term:`AA`
 	^^^^^^^^^^^^^^^^^^^^^^^^^
-	40
+	48
 
 	---
 
 	Total de horas
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	120
+	96
 
 ------------------------
 Organización Curricular
@@ -67,7 +67,7 @@ Organización Curricular
 	
 	Unidad 
 	^^^^^^^^^
-	Básica
+	Titulación
 
 	---
 

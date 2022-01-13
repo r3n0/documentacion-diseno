@@ -1,6 +1,6 @@
-=========================
-Herramientas Digitales I
-=========================
+========================================
+Aplicaciones Multimedia
+========================================
 
 -------------------------------
 Resultados de aprendizaje
@@ -10,7 +10,7 @@ Resultados de aprendizaje
 	:card: noshadow
 	:column: col-lg-12	
 
-	Utiliza software de creación de imagen vectorial para el desarrollo de propuestas de diseño
+	Diseña sistemas multimediales interactivos como aplicaciones e instalaciones acordes a los nuevos avances tecnológicos.
 
 -------------------
 Contenidos mínimos
@@ -20,7 +20,7 @@ Contenidos mínimos
 	:card: noshadow
 	:column: col-lg-12	
 
-	Esta asignatura se centra en conocer el programa estándar usado por los diseñadores en la industria gráfica y de impresión. desde el desarrollo de ilustraciones hasta estudios tipográficos. La cátedra busca el dominio técnico, artístico y comunicativo del software
+	Se explora los conceptos globales de los sistemas multimedia, el uso de varios medios o canales de información para la creación de proyectos de animación e interacción, y el desarrollo de aplicaciones.
 
 ------------------------------
 Distribución horaria semestral
@@ -67,7 +67,7 @@ Organización Curricular
 	
 	Unidad 
 	^^^^^^^^^
-	Básica
+	Profesional
 
 	---
 

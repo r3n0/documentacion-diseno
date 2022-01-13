@@ -1,6 +1,6 @@
-=========================
-Herramientas Digitales I
-=========================
+========================================
+Ética y Deontología
+========================================
 
 -------------------------------
 Resultados de aprendizaje
@@ -10,7 +10,7 @@ Resultados de aprendizaje
 	:card: noshadow
 	:column: col-lg-12	
 
-	Utiliza software de creación de imagen vectorial para el desarrollo de propuestas de diseño
+	Entiende y demuestra principios éticos y morales como base para su ejercer profesional, dentro del contexto laboral y humano ecuatoriano.
 
 -------------------
 Contenidos mínimos
@@ -20,7 +20,7 @@ Contenidos mínimos
 	:card: noshadow
 	:column: col-lg-12	
 
-	Esta asignatura se centra en conocer el programa estándar usado por los diseñadores en la industria gráfica y de impresión. desde el desarrollo de ilustraciones hasta estudios tipográficos. La cátedra busca el dominio técnico, artístico y comunicativo del software
+	Reflexiona sobre la práctica de los valores éticos en contextos culturales determinados proporcionando las herramientas conceptuales básicas para la elaboración de un código de ética profesional en el área del diseño.
 
 ------------------------------
 Distribución horaria semestral
@@ -34,25 +34,25 @@ Distribución horaria semestral
 
 	:term:`ACD`
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	48
+	32
 
 	---
 
 	:term:`APE`
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	32
+	16
 
 	---
 
 	:term:`AA`
 	^^^^^^^^^^^^^^^^^^^^^^^^^
-	40
+	32
 
 	---
 
 	Total de horas
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	120
+	80
 
 ------------------------
 Organización Curricular
@@ -67,10 +67,10 @@ Organización Curricular
 	
 	Unidad 
 	^^^^^^^^^
-	Básica
+	Profesional
 
 	---
 
 	Campo de formación
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	Praxis profesional
+	Integración de saberes, contextos y cultura

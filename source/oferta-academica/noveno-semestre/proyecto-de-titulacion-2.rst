@@ -1,6 +1,6 @@
-=========================
-Herramientas Digitales I
-=========================
+========================================
+Proyecto de Titulación II
+========================================
 
 -------------------------------
 Resultados de aprendizaje
@@ -10,7 +10,7 @@ Resultados de aprendizaje
 	:card: noshadow
 	:column: col-lg-12	
 
-	Utiliza software de creación de imagen vectorial para el desarrollo de propuestas de diseño
+	Ejecuta y sistematiza el Trabajo de Integración Curricular según la modalidad seleccionada por el estudiante.
 
 -------------------
 Contenidos mínimos
@@ -20,7 +20,7 @@ Contenidos mínimos
 	:card: noshadow
 	:column: col-lg-12	
 
-	Esta asignatura se centra en conocer el programa estándar usado por los diseñadores en la industria gráfica y de impresión. desde el desarrollo de ilustraciones hasta estudios tipográficos. La cátedra busca el dominio técnico, artístico y comunicativo del software
+	Se enfoca en la ejecución y sistematización, bajo tutorías, del trabajo de titulación en su proceso según la modalidad de proyecto de investigación, propuesta metodológica o en su caso, examen de grado o fin de carrera, para el desarrollo de la propuesta de diseño.
 
 ------------------------------
 Distribución horaria semestral
@@ -34,25 +34,25 @@ Distribución horaria semestral
 
 	:term:`ACD`
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	48
+	-
 
 	---
 
 	:term:`APE`
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	32
+	15
 
 	---
 
 	:term:`AA`
 	^^^^^^^^^^^^^^^^^^^^^^^^^
-	40
+	-
 
 	---
 
 	Total de horas
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	120
+	240
 
 ------------------------
 Organización Curricular
@@ -67,10 +67,10 @@ Organización Curricular
 	
 	Unidad 
 	^^^^^^^^^
-	Básica
+	Titulación
 
 	---
 
 	Campo de formación
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	Praxis profesional
+	Epistemología y metodología de la investigación

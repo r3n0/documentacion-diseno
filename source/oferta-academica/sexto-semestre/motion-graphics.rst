@@ -1,6 +1,6 @@
-=========================
-Herramientas Digitales I
-=========================
+========================================
+Motion Graphics
+========================================
 
 -------------------------------
 Resultados de aprendizaje
@@ -10,7 +10,7 @@ Resultados de aprendizaje
 	:card: noshadow
 	:column: col-lg-12	
 
-	Utiliza software de creación de imagen vectorial para el desarrollo de propuestas de diseño
+	Estructura y construye productos audiovisuales en movimiento, a través de técnicas de composición y edición de video digital.
 
 -------------------
 Contenidos mínimos
@@ -20,7 +20,7 @@ Contenidos mínimos
 	:card: noshadow
 	:column: col-lg-12	
 
-	Esta asignatura se centra en conocer el programa estándar usado por los diseñadores en la industria gráfica y de impresión. desde el desarrollo de ilustraciones hasta estudios tipográficos. La cátedra busca el dominio técnico, artístico y comunicativo del software
+	Estudia del software Adobe After Effects, y sus principales aplicaciones, el cual sirve como una herramienta de composición, edición de video digital y gráficas en movimiento como soporte para la construcción de productos audiovisuales.
 
 ------------------------------
 Distribución horaria semestral
@@ -67,7 +67,7 @@ Organización Curricular
 	
 	Unidad 
 	^^^^^^^^^
-	Básica
+	Profesional
 
 	---
 

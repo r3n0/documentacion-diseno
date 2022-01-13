@@ -1,6 +1,6 @@
-=========================
-Herramientas Digitales I
-=========================
+========================================
+Lenguaje Publicitario
+========================================
 
 -------------------------------
 Resultados de aprendizaje
@@ -10,7 +10,7 @@ Resultados de aprendizaje
 	:card: noshadow
 	:column: col-lg-12	
 
-	Utiliza software de creación de imagen vectorial para el desarrollo de propuestas de diseño
+	Aplica técnicas y estrategias del diseño publicitario en el desarrollo de productos integradores.
 
 -------------------
 Contenidos mínimos
@@ -20,7 +20,7 @@ Contenidos mínimos
 	:card: noshadow
 	:column: col-lg-12	
 
-	Esta asignatura se centra en conocer el programa estándar usado por los diseñadores en la industria gráfica y de impresión. desde el desarrollo de ilustraciones hasta estudios tipográficos. La cátedra busca el dominio técnico, artístico y comunicativo del software
+	Aborda las técnicas y estrategias del diseño publicitario que permitirá formar al estudiante en esta área específica del diseño gráfico. Es una asignatura interdisciplinaria en donde se influyen mutuamente la imagen corporativa, la semiótica, la tipografía, el diseño editorial, etc.
 
 ------------------------------
 Distribución horaria semestral
@@ -67,10 +67,10 @@ Organización Curricular
 	
 	Unidad 
 	^^^^^^^^^
-	Básica
+	Profesional
 
 	---
 
 	Campo de formación
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	Praxis profesional
+	Fundamentos teóricos / Praxis profesional

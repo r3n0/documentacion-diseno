@@ -1,6 +1,6 @@
-=========================
-Herramientas Digitales I
-=========================
+========================================
+Géneros Fotográficos
+========================================
 
 -------------------------------
 Resultados de aprendizaje
@@ -10,7 +10,7 @@ Resultados de aprendizaje
 	:card: noshadow
 	:column: col-lg-12	
 
-	Utiliza software de creación de imagen vectorial para el desarrollo de propuestas de diseño
+	Utiliza conceptos y técnicas de fotografía para el desarrollo de imágenes dentro de géneros específicos como el fotoreportaje, la fotografía editorial y publicitaria.
 
 -------------------
 Contenidos mínimos
@@ -20,7 +20,7 @@ Contenidos mínimos
 	:card: noshadow
 	:column: col-lg-12	
 
-	Esta asignatura se centra en conocer el programa estándar usado por los diseñadores en la industria gráfica y de impresión. desde el desarrollo de ilustraciones hasta estudios tipográficos. La cátedra busca el dominio técnico, artístico y comunicativo del software
+	Se centra en la aplicación práctica de los conceptos sobre técnica, composición, manejo de cámara y lenguaje fotográfico estudiados en la cátedra Fotografía I para la creación de imágenes dentro de géneros específicos tales como el fotoreportaje, la fotografía editorial y publicitaria.
 
 ------------------------------
 Distribución horaria semestral
@@ -67,7 +67,7 @@ Organización Curricular
 	
 	Unidad 
 	^^^^^^^^^
-	Básica
+	Profesional
 
 	---
 

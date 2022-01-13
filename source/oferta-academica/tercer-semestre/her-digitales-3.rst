@@ -1,6 +1,6 @@
-=========================
-Herramientas Digitales I
-=========================
+===========================================
+Herramientas Digitales III
+===========================================
 
 -------------------------------
 Resultados de aprendizaje
@@ -10,7 +10,7 @@ Resultados de aprendizaje
 	:card: noshadow
 	:column: col-lg-12	
 
-	Utiliza software de creación de imagen vectorial para el desarrollo de propuestas de diseño
+	Utiliza software para diseño y maquetación editorial para el desarrollo de publicaciones digitales e impresas.
 
 -------------------
 Contenidos mínimos
@@ -20,7 +20,7 @@ Contenidos mínimos
 	:card: noshadow
 	:column: col-lg-12	
 
-	Esta asignatura se centra en conocer el programa estándar usado por los diseñadores en la industria gráfica y de impresión. desde el desarrollo de ilustraciones hasta estudios tipográficos. La cátedra busca el dominio técnico, artístico y comunicativo del software
+	Explora la aplicación estándar para diseño y maquetación editorial. Se revisan distintas herramientas como páginas maestras, estilos de párrafo y caracteres, corte de palabras, justificaciones, tabulaciones, numeraciones, librerías, capas y exportación de archivos para aplicar en proyectos de publicaciones digitales e impresas.
 
 ------------------------------
 Distribución horaria semestral

@@ -1,6 +1,6 @@
-=========================
-Herramientas Digitales I
-=========================
+========================================
+Señalética
+========================================
 
 -------------------------------
 Resultados de aprendizaje
@@ -10,7 +10,7 @@ Resultados de aprendizaje
 	:card: noshadow
 	:column: col-lg-12	
 
-	Utiliza software de creación de imagen vectorial para el desarrollo de propuestas de diseño
+	Construye pictogramas para la ubicación espacial de los diferentes usuarios, mediante conceptos claros de iconografía, cromática, tipografía y marca dentro de la normativa ISO.
 
 -------------------
 Contenidos mínimos
@@ -20,7 +20,7 @@ Contenidos mínimos
 	:card: noshadow
 	:column: col-lg-12	
 
-	Esta asignatura se centra en conocer el programa estándar usado por los diseñadores en la industria gráfica y de impresión. desde el desarrollo de ilustraciones hasta estudios tipográficos. La cátedra busca el dominio técnico, artístico y comunicativo del software
+	Estudia la relación y comportamiento de los pictogramas tanto en el entorno físico como digital, manejando conceptos claros de iconografía, cromática, tipografía y marca. La cátedra además revisa las diferentes regulaciones para la aplicación de programas señaléticos como las normas ISO, los manuales de imagen corporativa de empresas o del Ministerio de Turismo.
 
 ------------------------------
 Distribución horaria semestral
@@ -67,10 +67,10 @@ Organización Curricular
 	
 	Unidad 
 	^^^^^^^^^
-	Básica
+	Profesional
 
 	---
 
 	Campo de formación
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	Praxis profesional
+	Fundamentos teóricos / Praxis profesional

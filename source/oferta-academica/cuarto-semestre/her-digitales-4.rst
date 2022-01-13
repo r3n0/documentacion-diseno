@@ -1,6 +1,6 @@
-=========================
-Herramientas Digitales I
-=========================
+===========================================
+Herramientas Digitales IV
+===========================================
 
 -------------------------------
 Resultados de aprendizaje
@@ -10,7 +10,7 @@ Resultados de aprendizaje
 	:card: noshadow
 	:column: col-lg-12	
 
-	Utiliza software de creación de imagen vectorial para el desarrollo de propuestas de diseño
+	Diseña y modela elementos y composiciones tridimensionales digitales aplicados a proyectos de: imagen, publicidad, audiovisuales y multimedia.
 
 -------------------
 Contenidos mínimos
@@ -20,7 +20,7 @@ Contenidos mínimos
 	:card: noshadow
 	:column: col-lg-12	
 
-	Esta asignatura se centra en conocer el programa estándar usado por los diseñadores en la industria gráfica y de impresión. desde el desarrollo de ilustraciones hasta estudios tipográficos. La cátedra busca el dominio técnico, artístico y comunicativo del software
+	Estudio del software utilizado para el modelado 3d. Se enfoca en el desarrollo de elementos, objetos y composiciones tridimensionales, aplicados a proyectos de: imagen, publicidad, audiovisuales y multimedia.
 
 ------------------------------
 Distribución horaria semestral
@@ -67,7 +67,7 @@ Organización Curricular
 	
 	Unidad 
 	^^^^^^^^^
-	Básica
+	Profesional
 
 	---
 

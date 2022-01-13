@@ -1,6 +1,6 @@
-=========================
-Herramientas Digitales I
-=========================
+======================================
+Historia del Arte II
+======================================
 
 -------------------------------
 Resultados de aprendizaje
@@ -10,7 +10,7 @@ Resultados de aprendizaje
 	:card: noshadow
 	:column: col-lg-12	
 
-	Utiliza software de creación de imagen vectorial para el desarrollo de propuestas de diseño
+	Expresa un proyecto cultural que aporte reflexión sobre otros mundos posibles
 
 -------------------
 Contenidos mínimos
@@ -20,7 +20,7 @@ Contenidos mínimos
 	:card: noshadow
 	:column: col-lg-12	
 
-	Esta asignatura se centra en conocer el programa estándar usado por los diseñadores en la industria gráfica y de impresión. desde el desarrollo de ilustraciones hasta estudios tipográficos. La cátedra busca el dominio técnico, artístico y comunicativo del software
+	Esta asignatura se enfoca en el estudio del desarrollo de las manifestaciones artísticas occidentales medievales desde el Arte Paleocristiano hasta el Renacimiento europeo y paralelamente la América Precolombina, en Ecuador se analizará la etapa cronológica de Integración y el periodo cañari e Inca. En este curso los estudiantes se aproximan al lenguaje artístico en varios medios, mientras analizan sus propósitos y entienden el proceso creativo y los inicios del diseño, así como las diferentes técnicas y materiales utilizados.
 
 ------------------------------
 Distribución horaria semestral
@@ -73,4 +73,4 @@ Organización Curricular
 
 	Campo de formación
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	Praxis profesional
+	Comunicación y Lenguajes

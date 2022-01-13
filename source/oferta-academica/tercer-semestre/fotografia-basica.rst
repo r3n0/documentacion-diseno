@@ -1,6 +1,6 @@
-=========================
-Herramientas Digitales I
-=========================
+========================================
+Fotografía Básica
+========================================
 
 -------------------------------
 Resultados de aprendizaje
@@ -10,7 +10,7 @@ Resultados de aprendizaje
 	:card: noshadow
 	:column: col-lg-12	
 
-	Utiliza software de creación de imagen vectorial para el desarrollo de propuestas de diseño
+	Emplea herramientas y conceptos básicos de las cámaras digitales y la composición fotográfica para su implementación en el diseño.
 
 -------------------
 Contenidos mínimos
@@ -20,7 +20,7 @@ Contenidos mínimos
 	:card: noshadow
 	:column: col-lg-12	
 
-	Esta asignatura se centra en conocer el programa estándar usado por los diseñadores en la industria gráfica y de impresión. desde el desarrollo de ilustraciones hasta estudios tipográficos. La cátedra busca el dominio técnico, artístico y comunicativo del software
+	Desarrollo de una mirada fotográfica mediante la exploración de las herramientas y técnicas básicas para el uso de cámaras digitales desde la experimentación con cámaras estenopeicas con film a color y ejercicios en cuarto oscuro. Se revisan conceptos de composición, encuadre, y el manejo de controles de la cámara, exposición, velocidad, profundidad de campo.
 
 ------------------------------
 Distribución horaria semestral
@@ -73,4 +73,4 @@ Organización Curricular
 
 	Campo de formación
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	Praxis profesional
+	Fundamentos teóricos / Praxis profesional

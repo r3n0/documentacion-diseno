@@ -1,6 +1,6 @@
-=========================
-Herramientas Digitales I
-=========================
+===========================================
+Herramientas Digitales II
+===========================================
 
 -------------------------------
 Resultados de aprendizaje
@@ -10,7 +10,7 @@ Resultados de aprendizaje
 	:card: noshadow
 	:column: col-lg-12	
 
-	Utiliza software de creación de imagen vectorial para el desarrollo de propuestas de diseño
+	Utiliza software de creación y edición de imagen mapa de bits para el desarrollo de propuestas de diseño.
 
 -------------------
 Contenidos mínimos
@@ -20,7 +20,7 @@ Contenidos mínimos
 	:card: noshadow
 	:column: col-lg-12	
 
-	Esta asignatura se centra en conocer el programa estándar usado por los diseñadores en la industria gráfica y de impresión. desde el desarrollo de ilustraciones hasta estudios tipográficos. La cátedra busca el dominio técnico, artístico y comunicativo del software
+	Dotará del dominio sobre técnicas profesionales de manipulación de la imagen digital, manejo de archivos en mapa de bits, control sobre tamaño, resolución y calidad, también se incluye tratamientos tipográficos y efectos fotográficos.
 
 ------------------------------
 Distribución horaria semestral

@@ -1,6 +1,6 @@
-=========================
-Herramientas Digitales I
-=========================
+========================================
+Dibujo Proyectual
+========================================
 
 -------------------------------
 Resultados de aprendizaje
@@ -10,7 +10,7 @@ Resultados de aprendizaje
 	:card: noshadow
 	:column: col-lg-12	
 
-	Utiliza software de creación de imagen vectorial para el desarrollo de propuestas de diseño
+	Interpreta y construye objetos y modelos tridimensionales a través del uso de la perspectiva, vistas, cortes, despieces y acotaciones
 
 -------------------
 Contenidos mínimos
@@ -20,7 +20,7 @@ Contenidos mínimos
 	:card: noshadow
 	:column: col-lg-12	
 
-	Esta asignatura se centra en conocer el programa estándar usado por los diseñadores en la industria gráfica y de impresión. desde el desarrollo de ilustraciones hasta estudios tipográficos. La cátedra busca el dominio técnico, artístico y comunicativo del software
+	Estudia los componentes básicos del Dibujo Técnico y la Geometría Descriptiva como vistas, cortes y acotaciones, para representar volúmenes en el espacio tridimensional de manera técnica y formal en la superficie bidimensional con el uso de elementos visuales básicos como la línea, punto, plano y volumen con el fin de que el estudiante pueda concebir, pensar y racionalizar el espacio bi y tridimensional y así plantear soluciones de diseño desde el análisis espacial.
 
 ------------------------------
 Distribución horaria semestral
@@ -34,25 +34,25 @@ Distribución horaria semestral
 
 	:term:`ACD`
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	48
+	64
 
 	---
 
 	:term:`APE`
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	32
+	48
 
 	---
 
 	:term:`AA`
 	^^^^^^^^^^^^^^^^^^^^^^^^^
-	40
+	48
 
 	---
 
 	Total de horas
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	120
+	160
 
 ------------------------
 Organización Curricular
@@ -73,4 +73,4 @@ Organización Curricular
 
 	Campo de formación
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	Praxis profesional
+	Praxis Profesional

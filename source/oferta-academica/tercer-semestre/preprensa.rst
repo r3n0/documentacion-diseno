@@ -1,6 +1,6 @@
-=========================
-Herramientas Digitales I
-=========================
+========================================
+Preprensa
+========================================
 
 -------------------------------
 Resultados de aprendizaje
@@ -10,7 +10,7 @@ Resultados de aprendizaje
 	:card: noshadow
 	:column: col-lg-12	
 
-	Utiliza software de creación de imagen vectorial para el desarrollo de propuestas de diseño
+	Comprende los diferentes sistemas de producción e impresión desde la litografía offset hasta los procesos actuales de impresión digital.
 
 -------------------
 Contenidos mínimos
@@ -20,7 +20,7 @@ Contenidos mínimos
 	:card: noshadow
 	:column: col-lg-12	
 
-	Esta asignatura se centra en conocer el programa estándar usado por los diseñadores en la industria gráfica y de impresión. desde el desarrollo de ilustraciones hasta estudios tipográficos. La cátedra busca el dominio técnico, artístico y comunicativo del software
+	Se centra en la comprensión de los diferentes sistemas productivos y de impresión que van desde un enfoque teórico del desarrollo de la litografía offset y sus implicaciones al momento de diseñar, hasta sus usos prácticos relacionados con el uso de software específico para distintos productos de diseño, así como los diferentes formatos de archivos, pruebas y perfiles de color, troqueles, acabados de impresión, presupuestos, etc.
 
 ------------------------------
 Distribución horaria semestral
@@ -73,4 +73,4 @@ Organización Curricular
 
 	Campo de formación
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	Praxis profesional
+	Praxis Profesional

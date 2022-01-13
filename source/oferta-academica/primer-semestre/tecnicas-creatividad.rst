@@ -1,6 +1,6 @@
-=========================
-Herramientas Digitales I
-=========================
+======================================
+Técnicas de Creatividad
+======================================
 
 -------------------------------
 Resultados de aprendizaje
@@ -10,7 +10,7 @@ Resultados de aprendizaje
 	:card: noshadow
 	:column: col-lg-12	
 
-	Utiliza software de creación de imagen vectorial para el desarrollo de propuestas de diseño
+	Examina y define técnicas de creación de ideas para fomentar su potencial creativo y relacionarlo en la producción de diseño
 
 -------------------
 Contenidos mínimos
@@ -20,7 +20,7 @@ Contenidos mínimos
 	:card: noshadow
 	:column: col-lg-12	
 
-	Esta asignatura se centra en conocer el programa estándar usado por los diseñadores en la industria gráfica y de impresión. desde el desarrollo de ilustraciones hasta estudios tipográficos. La cátedra busca el dominio técnico, artístico y comunicativo del software
+	Esta asignatura se centra en conocer y aplicar técnicas de estímulo creativo tales como mapas mentales, lluvia de ideas, estimulación aleatoria, es decir, una serie de actividades plásticas, lingüísticas, sensoriales, emocionales e intuitivas fundamentadas en el estudio teórico de la creatividad. Todo esto con el fin de desarrollar el potencial creativo del estudiante y relacionarlo a la producción del diseño.
 
 ------------------------------
 Distribución horaria semestral
@@ -73,4 +73,4 @@ Organización Curricular
 
 	Campo de formación
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	Praxis profesional
+	Fndamentos Teóricos

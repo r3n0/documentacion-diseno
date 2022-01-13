@@ -1,6 +1,6 @@
-=========================
-Herramientas Digitales I
-=========================
+======================================
+Tecnologías y soportes del Diseño
+======================================
 
 -------------------------------
 Resultados de aprendizaje
@@ -10,7 +10,7 @@ Resultados de aprendizaje
 	:card: noshadow
 	:column: col-lg-12	
 
-	Utiliza software de creación de imagen vectorial para el desarrollo de propuestas de diseño
+	Relaciona diversos materiales y soportes análogos para la representación de proyecto tridimensional. de materiales tecnológicos, soporte
 
 -------------------
 Contenidos mínimos
@@ -20,7 +20,7 @@ Contenidos mínimos
 	:card: noshadow
 	:column: col-lg-12	
 
-	Esta asignatura se centra en conocer el programa estándar usado por los diseñadores en la industria gráfica y de impresión. desde el desarrollo de ilustraciones hasta estudios tipográficos. La cátedra busca el dominio técnico, artístico y comunicativo del software
+	Experimentar y conocer los diferentes materiales disponibles para la producción de diseño, así como sus aplicaciones, técnicas y soportes.
 
 ------------------------------
 Distribución horaria semestral
@@ -73,4 +73,4 @@ Organización Curricular
 
 	Campo de formación
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	Praxis profesional
+	Praxis Profesional

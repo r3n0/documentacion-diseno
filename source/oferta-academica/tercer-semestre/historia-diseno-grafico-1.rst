@@ -1,6 +1,6 @@
-=========================
-Herramientas Digitales I
-=========================
+========================================
+Historia del Diseño Gráfico I
+========================================
 
 -------------------------------
 Resultados de aprendizaje
@@ -10,7 +10,7 @@ Resultados de aprendizaje
 	:card: noshadow
 	:column: col-lg-12	
 
-	Utiliza software de creación de imagen vectorial para el desarrollo de propuestas de diseño
+	Desarrolla un pensamiento crítico de la Historia del Diseño mediante el estudio de los adelantos técnicos e innovaciones, procesos sociales y culturales generados e influenciados por los movimientos del arte y del diseño.
 
 -------------------
 Contenidos mínimos
@@ -20,7 +20,7 @@ Contenidos mínimos
 	:card: noshadow
 	:column: col-lg-12	
 
-	Esta asignatura se centra en conocer el programa estándar usado por los diseñadores en la industria gráfica y de impresión. desde el desarrollo de ilustraciones hasta estudios tipográficos. La cátedra busca el dominio técnico, artístico y comunicativo del software
+	Una visión histórica y cultural de los eventos, adelantos técnicos e innovaciones generados por los movimientos del arte y del diseño, una revisión de los principales procesos sociales y culturales que han influenciado en el diseño, la tipografía y sus exponentes
 
 ------------------------------
 Distribución horaria semestral
@@ -73,4 +73,4 @@ Organización Curricular
 
 	Campo de formación
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	Praxis profesional
+	Comunicación y Lenguajes

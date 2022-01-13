@@ -1,6 +1,6 @@
-=========================
-Herramientas Digitales I
-=========================
+========================================
+Gestores de Contenido Web
+========================================
 
 -------------------------------
 Resultados de aprendizaje
@@ -10,7 +10,7 @@ Resultados de aprendizaje
 	:card: noshadow
 	:column: col-lg-12	
 
-	Utiliza software de creación de imagen vectorial para el desarrollo de propuestas de diseño
+	Estructura y construye sitios web dinámicos y responsivos mediante el uso Sistemas de Manejo de Contenido.
 
 -------------------
 Contenidos mínimos
@@ -20,7 +20,7 @@ Contenidos mínimos
 	:card: noshadow
 	:column: col-lg-12	
 
-	Esta asignatura se centra en conocer el programa estándar usado por los diseñadores en la industria gráfica y de impresión. desde el desarrollo de ilustraciones hasta estudios tipográficos. La cátedra busca el dominio técnico, artístico y comunicativo del software
+	Se enfoca en el desarrollo y administración de sitios Web complejos a través de utilizar base de datos y gestores de contenido CMS mediante lenguajes de programación y el uso de plataforma wordpress. Se centra en la experiencia de usuario, arquitectura de la información, construcción de mapas de sitios y desarrollo de navegabilidad y usabilidad, así como en conceptos de adaptabilidad y responsive design.
 
 ------------------------------
 Distribución horaria semestral
@@ -67,7 +67,7 @@ Organización Curricular
 	
 	Unidad 
 	^^^^^^^^^
-	Básica
+	Profesional
 
 	---
 

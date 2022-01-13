@@ -1,6 +1,6 @@
-=========================
-Herramientas Digitales I
-=========================
+========================================
+Historia del Diseño Gráfico II
+========================================
 
 -------------------------------
 Resultados de aprendizaje
@@ -10,7 +10,7 @@ Resultados de aprendizaje
 	:card: noshadow
 	:column: col-lg-12	
 
-	Utiliza software de creación de imagen vectorial para el desarrollo de propuestas de diseño
+	Identifica las nuevas tendencias del diseño digital y la evolución del diseño latinoamericano y ecuatoriano.
 
 -------------------
 Contenidos mínimos
@@ -20,7 +20,7 @@ Contenidos mínimos
 	:card: noshadow
 	:column: col-lg-12	
 
-	Esta asignatura se centra en conocer el programa estándar usado por los diseñadores en la industria gráfica y de impresión. desde el desarrollo de ilustraciones hasta estudios tipográficos. La cátedra busca el dominio técnico, artístico y comunicativo del software
+	Continua la revisión histórica del Diseño desde los años ochentas y la influencia del pensamiento contemporáneo en el diseño gráfico como la deconstrucción y el grunge, analiza la adaptación del diseño en entornos digitales y el desarrollo de nuevas tendencias. La segunda mitad del ciclo inicia una revisión histórica de autores y exponente del diseño en México, Argentina y Ecuador, en búsqueda de las señas particulares del diseño latinoamericano y ecuatoriano.
 
 ------------------------------
 Distribución horaria semestral
@@ -67,10 +67,10 @@ Organización Curricular
 	
 	Unidad 
 	^^^^^^^^^
-	Básica
+	Profesional
 
 	---
 
 	Campo de formación
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	Praxis profesional
+	Comunicación y Lenguajes
