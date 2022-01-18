@@ -10,7 +10,7 @@ Resultados de aprendizaje
 	:card: noshadow
 	:column: col-lg-12	
 
-	Relaciona diversos materiales y soportes análogos para la representación de proyecto tridimensional. de materiales tecnológicos, soporte
+	Relaciona diversos materiales y soportes análogos para la representación de proyecto tridimensional. de materiales tecnológicos, soporte.
 
 -------------------
 Contenidos mínimos
@@ -34,7 +34,7 @@ Distribución horaria semestral
 
 	:term:`ACD`
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	48
+	32
 
 	---
 
@@ -46,13 +46,13 @@ Distribución horaria semestral
 
 	:term:`AA`
 	^^^^^^^^^^^^^^^^^^^^^^^^^
-	40
+	32
 
 	---
 
 	Total de horas
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	120
+	96
 
 ------------------------
 Organización Curricular

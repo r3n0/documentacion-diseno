@@ -10,7 +10,7 @@ Resultados de aprendizaje
 	:card: noshadow
 	:column: col-lg-12	
 
-	Relaciona y aplica destrezas y técnicas avanzadas del dibujo mediante el uso de la perspectiva para representar gráficamente objetos y modelos reales
+	Relaciona y aplica destrezas y técnicas avanzadas del dibujo mediante el uso de la perspectiva para representar gráficamente objetos y modelos reales.
 
 -------------------
 Contenidos mínimos
@@ -34,25 +34,25 @@ Distribución horaria semestral
 
 	:term:`ACD`
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	64
+	32
 
 	---
 
 	:term:`APE`
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	48
+	32
 
 	---
 
 	:term:`AA`
 	^^^^^^^^^^^^^^^^^^^^^^^^^
-	48
+	32
 
 	---
 
 	Total de horas
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	160
+	96
 
 ------------------------
 Organización Curricular

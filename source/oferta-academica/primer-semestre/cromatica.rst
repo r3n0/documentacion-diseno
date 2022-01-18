@@ -10,7 +10,7 @@ Resultados de aprendizaje
 	:card: noshadow
 	:column: col-lg-12	
 
-	Relaciona la teoría del color para la producción de diversas propuestas gráficas, transmitiendo mensajes psicológicos,culturales y simbólicos.
+	Relaciona la teoría del color para la producción de diversas propuestas gráficas, transmitiendo mensajes psicológicos, culturales y simbólicos.
 
 
 -------------------
@@ -21,7 +21,7 @@ Contenidos mínimos
 	:card: noshadow
 	:column: col-lg-12	
 
-	Desarrolla la capacidad de entender a la cromática como un recurso expresivo básico dentro de la comunicación visual, mediante el conocimiento teórico y práctico de las herramientas cromáticas. 
+	Desarrolla la capacidad de entender a la cromática como un recurso expresivo básico dentro de la comunicación visual, mediante el conocimiento teórico y práctico de las herramientas cromáticas.
 
 ------------------------------
 Distribución horaria semestral
@@ -47,13 +47,13 @@ Distribución horaria semestral
 
 	:term:`AA`
 	^^^^^^^^^^^^^^^^^^^^^^^^^
-	32
+	48
 
 	---
 
 	Total de horas
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	80
+	196
 
 ------------------------
 Organización Curricular

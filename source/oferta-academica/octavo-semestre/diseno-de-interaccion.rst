@@ -10,7 +10,7 @@ Resultados de aprendizaje
 	:card: noshadow
 	:column: col-lg-12	
 
-	Planifica y diseña sistemas digitales multiplataforma
+	Planifica y diseña sistemas digitales multiplataforma.
 
 -------------------
 Contenidos mínimos
@@ -40,19 +40,19 @@ Distribución horaria semestral
 
 	:term:`APE`
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	48
+	32
 
 	---
 
 	:term:`AA`
 	^^^^^^^^^^^^^^^^^^^^^^^^^
-	48	
+	96
 
 	---
 
 	Total de horas
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	160
+	192
 
 ------------------------
 Organización Curricular

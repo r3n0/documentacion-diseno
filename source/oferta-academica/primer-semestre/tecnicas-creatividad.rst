@@ -10,7 +10,7 @@ Resultados de aprendizaje
 	:card: noshadow
 	:column: col-lg-12	
 
-	Examina y define técnicas de creación de ideas para fomentar su potencial creativo y relacionarlo en la producción de diseño
+	Examina y define técnicas de creación de ideas para fomentar su potencial creativo y relacionarlo en la producción de diseño.
 
 -------------------
 Contenidos mínimos
@@ -40,19 +40,19 @@ Distribución horaria semestral
 
 	:term:`APE`
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	32
+	16
 
 	---
 
 	:term:`AA`
 	^^^^^^^^^^^^^^^^^^^^^^^^^
-	40
+	80
 
 	---
 
 	Total de horas
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	120
+	144
 
 ------------------------
 Organización Curricular

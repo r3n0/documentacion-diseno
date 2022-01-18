@@ -40,19 +40,19 @@ Distribución horaria semestral
 
 	:term:`APE`
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	16
+	-
 
 	---
 
 	:term:`AA`
 	^^^^^^^^^^^^^^^^^^^^^^^^^
-	32	
+	64
 
 	---
 
 	Total de horas
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	80
+	96
 
 ------------------------
 Organización Curricular

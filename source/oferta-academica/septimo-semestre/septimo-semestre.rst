@@ -10,5 +10,5 @@ Séptimo Semestre
 	diseno-de-personajes
 	animaciones-multimedia
 	campanas-publicitarias
-	investigacion-diseno-latinoamericano
+	investigacion-formativa-1
 	taller-de-diseno

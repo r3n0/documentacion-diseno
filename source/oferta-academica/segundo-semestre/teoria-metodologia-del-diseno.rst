@@ -10,7 +10,7 @@ Resultados de aprendizaje
 	:card: noshadow
 	:column: col-lg-12	
 
-	Analiza las distintas metodologías que han influenciado los procesos de diseño para el desarrollo de actividades de gestión y vinculación con los diferentes sectores relacionados con su perfil profesional
+	Analiza las distintas metodologías que han influenciado los procesos de diseño para el desarrollo de actividades de gestión y vinculación con los diferentes sectores relacionados con su perfil profesional.
 
 -------------------
 Contenidos mínimos
@@ -34,25 +34,25 @@ Distribución horaria semestral
 
 	:term:`ACD`
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	80
+	64
 
 	---
 
 	:term:`APE`
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	48
+	32
 
 	---
 
 	:term:`AA`
 	^^^^^^^^^^^^^^^^^^^^^^^^^
-	72
+	96
 
 	---
 
 	Total de horas
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	200
+	192
 
 ------------------------
 Organización Curricular
