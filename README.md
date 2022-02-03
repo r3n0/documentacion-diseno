@@ -5,9 +5,15 @@ El proyecto está construido con la ayuda de [Sphinx](https://www.sphinx-doc.org
 
 El objetivo de este proyecto es presentar la documentación de la facultad de forma ordenada y actualizada. Esta incluye sílabos, contenidos, procesos importantes, formatos, estructura de la malla
 
+## Contribución al proyecto.
+
+Para iniciar la contribución a este proyecto debes considerar que el esquema de desarrollo está estructurado usando los principio de [GitFlow](https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=Gitflow%20es%20un%20modelo%20alternativo,vez%20y%20quien%20lo%20populariz%C3%B3.). 
+
+Haz una bifurcación del repositorio en tu cuenta de github y clona el repositorio en tu ambiente local de desarrollo.
+
 ## Instalación:
 
-Sphinx funciona con Python así que se puede trabajar con un Ambiente Virtual (venv). Para crear uno usa este código:
+Sphinx funciona con Python así que se puede trabajar con un Ambiente Virtual (venv). Para crear uno ingresa en la carpeta razíz del repositorio y usa este código:
 
 ```
 python3 -m venv .venv
