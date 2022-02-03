@@ -46,13 +46,13 @@ Distribución horaria semestral
 
 	:term:`AA`
 	^^^^^^^^^^^^^^^^^^^^^^^^^
-	32	
+	48
 
 	---
 
 	Total de horas
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	80
+	96
 
 ------------------------
 Organización Curricular

@@ -10,7 +10,7 @@ Resultados de aprendizaje
 	:card: noshadow
 	:column: col-lg-12	
 
-	Relaciona y aplica destrezas y técnicas básicas del dibujo para representar gráficamente objetos y modelos reales
+	Relaciona y aplica destrezas y técnicas básicas del dibujo para representar gráficamente objetos y modelos reales.
 
 -------------------
 Contenidos mínimos
@@ -20,7 +20,7 @@ Contenidos mínimos
 	:card: noshadow
 	:column: col-lg-12	
 
-	Esta asignatura se centra en el desarrollo de las destrezas y de las técnicas básicas del dibujo a través del estudio de la línea, la forma, la composición, la proporción y el claroscuro con el fin de poder crear volumen y dar la ilusión de tres dimensiones en las representaciones gráficas. Basados en modelos reales, se espera que los estudiantes puedan transcribir lo que ven, mediante la técnica del dibujo y así generar reflexiones acerca de su trabajo
+	Esta asignatura se centra en el desarrollo de las destrezas y de las técnicas básicas del dibujo a través del estudio de la línea, la forma, la composición, la proporción y el claroscuro con el fin de poder crear volumen y dar la ilusión de tres dimensiones en las representaciones gráficas. Basados en modelos reales, se espera que los estudiantes puedan transcribir lo que ven, mediante la técnica del dibujo y así generar reflexiones acerca de su trabajo.
 
 ------------------------------
 Distribución horaria semestral
@@ -34,25 +34,25 @@ Distribución horaria semestral
 
 	:term:`ACD`
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	64
+	32
 
 	---
 
 	:term:`APE`
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	48
+	32
 
 	---
 
 	:term:`AA`
 	^^^^^^^^^^^^^^^^^^^^^^^^^
-	48
+	32
 
 	---
 
 	Total de horas
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	160
+	96
 
 ------------------------
 Organización Curricular

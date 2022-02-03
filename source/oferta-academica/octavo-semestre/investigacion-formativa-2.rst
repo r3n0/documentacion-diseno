@@ -1,5 +1,5 @@
 ========================================
-Investigación y Diseño Latinoamericano
+Investigación Formativa II
 ========================================
 
 -------------------------------
@@ -10,7 +10,7 @@ Resultados de aprendizaje
 	:card: noshadow
 	:column: col-lg-12	
 
-	Investiga sobre nuevos aportes teóricos y metodológicos al diseño desde una perspectiva latinoamericana.
+	Relaciona herramientas y técnicas para la investigación de proyectos de diseño con el fin de mejorar sus procesos creativos.
 
 -------------------
 Contenidos mínimos
@@ -20,7 +20,7 @@ Contenidos mínimos
 	:card: noshadow
 	:column: col-lg-12	
 
-	Esta cátedra trata de examinar la actualidad del diseño en Latinoamérica desde una perspectiva histórica y crítica. Desde los distintos contextos de la región se investigarán nuevas metodologías, uso de materiales, y referentes teóricos que aporten identidad al diseño.
+	Comprender los diversos métodos para generar investigación en el campo del diseño, obteniendo las bases conceptuales para elaborar cada una de las diferentes etapas de un proyecto de diseño.
 
 ------------------------------
 Distribución horaria semestral
@@ -40,19 +40,19 @@ Distribución horaria semestral
 
 	:term:`APE`
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	16
+	-
 
 	---
 
 	:term:`AA`
 	^^^^^^^^^^^^^^^^^^^^^^^^^
-	32
+	64
 
 	---
 
 	Total de horas
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	80
+	96
 
 ------------------------
 Organización Curricular
@@ -67,10 +67,10 @@ Organización Curricular
 	
 	Unidad 
 	^^^^^^^^^
-	Profesional
+	Titulación
 
 	---
 
 	Campo de formación
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	Comunicación y lenguajes
+	Epistemología y metodología de la investigación

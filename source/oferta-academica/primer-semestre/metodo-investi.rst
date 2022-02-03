@@ -10,7 +10,7 @@ Resultados de aprendizaje
 	:card: noshadow
 	:column: col-lg-12	
 
-	Identifica los elementos que debe contener un proyecto de investigación y conoce técnicas de expresión oral y escrita para generar proyectos de investigación
+	Identifica los elementos que debe contener un proyecto de investigación y conoce técnicas de expresión oral y escrita para generar proyectos de investigación.
 
 -------------------
 Contenidos mínimos
@@ -34,25 +34,24 @@ Distribución horaria semestral
 
 	:term:`ACD`
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	32
+	16
 
 	---
 
 	:term:`APE`
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
 	16
-
 	---
 
 	:term:`AA`
 	^^^^^^^^^^^^^^^^^^^^^^^^^
-	32
+	16
 
 	---
 
 	Total de horas
 	^^^^^^^^^^^^^^^^^^^^^^^^^^
-	80
+	48
 
 ------------------------
 Organización Curricular
